@@ -1,0 +1,13 @@
+
+La ferreteria "El Ferretero" cuenta con disntitos precios según
+el tipo de cliente.
+
+Existen tres tipos de clientes: Cliente Regular o Cliente Por Defecto, 
+(aclarando este último, sería para el caso de que un cliente no desee registrarse, 
+para tal caso se le asigna un nombre:"S\N" y un ruc:"***"), para ambos, el monto a pagar
+es aplicado sin variantes. Cliente Fiel, a este se le otorga el monto a pagar 
+aplicando un descuento del 10%. Y Cliente VIP, que se le asigna un monto a pagar con 
+un aumento del 5%.
+
+La ferretería desea implementar una aplicación en python3 que
+realice los cálculos de los montos a pagar en forma polimórfica.
